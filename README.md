@@ -1,1 +1,2 @@
-# hw-2-python-for-amchine-learning
+# hw-2-python-for-machine-learning
+## github practice and training
